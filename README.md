@@ -13,7 +13,9 @@ I have it set to just reddit.com for now.
 
 Soon.
 
+### Manually. 
 
+Got to `chrome://extensions` in the omnibar and simply drag `ItsCalledAppleWatch.crx` into the window.
 
-![](http://cl.ly/image/0J0p1H2u0F0E/content)
+Helpful guide if you get lost: http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/
 
