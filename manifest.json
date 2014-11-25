@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "ItsCalledAppleWatch",
+  "description": "Replaces the unicode apple with 'Apple' when used with 'watch' or 'pay'",
+  "content_scripts" : [{
+    "js" : ["jquery.min.js", "ItsCalledAppleWatch.js"],
+    "matches" : ["http://www.reddit.com/*"]
+    }],
+  "version": "1.0",
+  "permissions": [
+    "http://reddit.com/*/*"
+  ]
+}
