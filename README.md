@@ -1,7 +1,7 @@
 ItsCalledAppleWatch
 ===================
 
-Using  Watch and  Pay look silly.... this extension turns them into 'Apple Watch' or 'Apple Pay',respectively.
+Using  Watch and  Pay look silly.... this extension turns them into 'Apple Watch' or 'Apple Pay', respectively.
 
 Removes the unicode/ascii Apple symbol when used next to 'watch' or 'pay'. 
 
